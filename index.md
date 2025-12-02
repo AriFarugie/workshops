@@ -1,30 +1,19 @@
 ---
-layout: default
+layout: single
 title: "Workshops – Methoden & Statistik"
+permalink: /
 ---
 
-[Startseite](/workshops/) · 
-[Workshop 1](/workshops/workshop1.html) · 
-[Workshop 2](/workshops/workshop2.html) · 
-[Workshop 3](/workshops/workshop3.html)
-
----
-
-
-# Workshops – Methoden & Statistik
-
-Willkommen auf meiner Workshop-Seite!
-Hier findest du Materialien, Unterlagen, Übungen und kommende Termine.
+Willkommen auf meiner Workshop-Seite!  
+Hier findest du Materialien, Unterlagen, Übungen und Infos zu meinen Methoden-Workshops.
 
 ---
 
 ## 🔍 Aktuelle Workshops
 
-- **Einführung in R & RStudio**
-- **Datenvisualisierung mit ggplot2**
-- **Reproduzierbare Forschung (R Markdown / Quarto)**
-- **Statistische Grundlagen für Psychologie**
-- **Einführung in qualitative Methoden**
+- **Workshop 1 – Einführung in R & RStudio**
+- **Workshop 2 – Datenvisualisierung mit ggplot2**
+- **Workshop 3 – Einführung in qualitative Methoden**
 
 ---
 
