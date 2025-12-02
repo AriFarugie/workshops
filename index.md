@@ -1,5 +1,4 @@
 ---
-layout: single
 title: "Workshops – Methoden & Statistik"
 permalink: /
 ---
