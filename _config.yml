@@ -1,0 +1,12 @@
+theme: jekyll-theme-cayman
+title: "Workshops – Methoden & Statistik"
+
+navigation:
+  - name: "Startseite"
+    link: "/workshops/"
+  - name: "Workshop 1"
+    link: "/workshops/workshop1.html"
+  - name: "Workshop 2"
+    link: "/workshops/workshop2.html"
+  - name: "Workshop 3"
+    link: "/workshops/workshop3.html"
