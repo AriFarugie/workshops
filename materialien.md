@@ -21,3 +21,11 @@ Hier können zentrale Materialien gesammelt werden.
 > Hinweis für mich:  
 > Diese Seite ist eine Art „Material-Sammelstelle“.  
 > Später konkrete Links zu Dateien oder externen Seiten einfügen.
+
+## Interaktive Shiny-App: Korrelation & Punktwolke
+
+<iframe 
+  src="{{ '/shiny/app1/' | relative_url }}" 
+  style="width: min(100%, 1100px); height: 600px; border: 1px solid #333; border-radius: 8px; background: #ffffff;"
+></iframe>
+
