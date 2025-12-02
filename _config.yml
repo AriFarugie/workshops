@@ -7,7 +7,7 @@ baseurl: "/workshops"                 # der Name deines Repos, mit / davor
 remote_theme: mmistakes/minimal-mistakes@4.26.2
 
 # Design-Variante (Skin) des Themes
-minimal_mistakes_skin: "air"          # andere Skins: default, dark, mint, plum, sunrise ...
+minimal_mistakes_skin: "mint"          # andere Skins: default, dark, mint, plum, sunrise ...
 
 # notwendiges Plugin für das Theme
 plugins:
