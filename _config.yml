@@ -1,12 +1,18 @@
-theme: jekyll-theme-cayman
 title: "Workshops – Methoden & Statistik"
+description: "Methoden-Workshops von Arieja Farugie"
+url: "https://arifarugie.github.io"   # deine GitHub-Pages-Domain
+baseurl: "/workshops"                 # der Name deines Repos, mit / davor
 
-navigation:
-  - name: "Startseite"
-    link: "/workshops/"
-  - name: "Workshop 1"
-    link: "/workshops/workshop1.html"
-  - name: "Workshop 2"
-    link: "/workshops/workshop2.html"
-  - name: "Workshop 3"
-    link: "/workshops/workshop3.html"
+# Minimal Mistakes als Remote-Theme
+remote_theme: mmistakes/minimal-mistakes@4.26.2
+
+# Design-Variante (Skin) des Themes
+minimal_mistakes_skin: "air"          # andere Skins: default, dark, mint, plum, sunrise ...
+
+# notwendiges Plugin für das Theme
+plugins:
+  - jekyll-include-cache
+
+# Seiten-Verzeichnis
+include:
+  - _pages
