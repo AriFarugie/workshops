@@ -1,8 +1,19 @@
 ---
 layout: default
-title: "Workshop 1 – Einführung in R"
+title: "Workshop 3 – Qualitative Methoden"
 ---
 
-# Workshop 1 – Einführung in R & RStudio
+# Workshop 3 – Einführung in qualitative Methoden
 
-Hier kommt dein Inhalt hin.
+## Inhalte
+- Forschungsdesigns
+- Sampling
+- Interviews & Leitfäden
+- Qualitative Analyseformen
+- Kodieren & Kategorienbildung
+
+## Materialien
+- Beispiele folgen
+
+## Zielgruppe
+Studierende & Forschende mit Interesse an qualitativen Ansätzen.
