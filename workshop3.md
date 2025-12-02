@@ -1,7 +1,4 @@
----
-layout: default
-title: "Workshop 3 – Qualitative Methoden"
----
+
 [Startseite](/workshops/) · 
 [Workshop 1](/workshops/workshop1.html) · 
 [Workshop 2](/workshops/workshop2.html) · 
