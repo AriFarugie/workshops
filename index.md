@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Workshops – Methoden & Statistik
 
 Willkommen auf meiner Workshop-Seite!  
