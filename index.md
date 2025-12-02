@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: "Workshops – Methoden & Statistik"
+---
 
 [Startseite](/workshops/) · 
 [Workshop 1](/workshops/workshop1.html) · 
