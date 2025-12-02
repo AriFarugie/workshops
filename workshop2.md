@@ -1,7 +1,4 @@
----
-layout: default
-title: "Workshop 2 – Datenvisualisierung mit ggplot2"
----
+
 [Startseite](/workshops/) · 
 [Workshop 1](/workshops/workshop1.html) · 
 [Workshop 2](/workshops/workshop2.html) · 
