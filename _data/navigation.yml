@@ -1,0 +1,9 @@
+main:
+  - title: "Startseite"
+    url: /
+  - title: "Workshop 1"
+    url: /workshop1/
+  - title: "Workshop 2"
+    url: /workshop2/
+  - title: "Workshop 3"
+    url: /workshop3/
