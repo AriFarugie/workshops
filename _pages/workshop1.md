@@ -4,8 +4,6 @@ title: "Workshop 1 – Einführung in R & RStudio"
 permalink: /workshop1/
 ---
 
-# Workshop 1 – Einführung in R & RStudio
-
 ## Inhalte
 - Einführung in R
 - Überblick über die RStudio-Oberfläche
