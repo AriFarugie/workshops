@@ -1,28 +1,21 @@
 ---
-layout: default
+layout: single
 title: "Workshop 2 – Datenvisualisierung mit ggplot2"
+permalink: /workshop2/
 ---
-[Startseite](/workshops/) · 
-[Workshop 1](/workshops/workshop1.html) · 
-[Workshop 2](/workshops/workshop2.html) · 
-[Workshop 3](/workshops/workshop3.html)
-
----
-
 
 # Workshop 2 – Datenvisualisierung mit ggplot2
 
 ## Inhalte
 - Grammatik der Grafiken
-- Verschiedene Plottypen
+- Wichtige Plottypen (Scatter, Bar, Boxplot, Line)
 - Themes & Layouts
 - Farben, Labels, Annotationen
-- Exportieren für Publikationen
+- Export von Grafiken für Präsentationen und Publikationen
 
 ## Materialien
-- Skript (kommt)
-- Beispielcode
-- Übungsdaten (optional)
+- Beispielcode (folgt)
+- Datensätze (folgen)
 
 ## Zielgruppe
-Grundlagen in R werden empfohlen.
+Personen mit grundlegenden R-Kenntnissen.
