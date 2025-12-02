@@ -1,29 +1,21 @@
 ---
-layout: default
+layout: single
 title: "Workshop 1 – Einführung in R & RStudio"
+permalink: /workshop1/
 ---
-[Startseite](/workshops/) · 
-[Workshop 1](/workshops/workshop1.html) · 
-[Workshop 2](/workshops/workshop2.html) · 
-[Workshop 3](/workshops/workshop3.html)
-
----
-
 
 # Workshop 1 – Einführung in R & RStudio
 
-Willkommen zu Workshop 1!
-
 ## Inhalte
 - Einführung in R
-- Die RStudio-Oberfläche
+- Überblick über die RStudio-Oberfläche
 - Pakete installieren und laden
 - Erste Befehle
 - Datentypen & Objekte
 
 ## Materialien
-- Skript (wird ergänzt)
-- Übungen (wird ergänzt)
+- Skript (folgt)
+- Übungen (folgen)
 
 ## Zielgruppe
-Einsteiger*innen ohne Vorkenntnisse.
+Einsteiger*innen ohne oder mit wenig Vorkenntnissen in R.
