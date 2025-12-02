@@ -1,8 +1,21 @@
 ---
 layout: default
-title: "Workshop 1 – Einführung in R"
+title: "Workshop 2 – Datenvisualisierung mit ggplot2"
 ---
 
-# Workshop 1 – Einführung in R & RStudio
+# Workshop 2 – Datenvisualisierung mit ggplot2
 
-Hier kommt dein Inhalt hin.
+## Inhalte
+- Grammatik der Grafiken
+- Verschiedene Plottypen
+- Themes & Layouts
+- Farben, Labels, Annotationen
+- Exportieren für Publikationen
+
+## Materialien
+- Skript (kommt)
+- Beispielcode
+- Übungsdaten (optional)
+
+## Zielgruppe
+Grundlagen in R werden empfohlen.
