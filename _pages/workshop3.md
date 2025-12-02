@@ -1,26 +1,21 @@
 ---
-layout: default
-title: "Workshop 3 – Qualitative Methoden"
+layout: single
+title: "Workshop 3 – Einführung in qualitative Methoden"
+permalink: /workshop3/
 ---
-[Startseite](/workshops/) · 
-[Workshop 1](/workshops/workshop1.html) · 
-[Workshop 2](/workshops/workshop2.html) · 
-[Workshop 3](/workshops/workshop3.html)
-
----
-
 
 # Workshop 3 – Einführung in qualitative Methoden
 
 ## Inhalte
-- Forschungsdesigns
+- Qualitative Forschungsdesigns
 - Sampling
-- Interviews & Leitfäden
-- Qualitative Analyseformen
-- Kodieren & Kategorienbildung
+- Leitfadengestützte Interviews
+- Überblick über Auswertungsverfahren
+- Kodieren und Kategorienbildung
 
 ## Materialien
-- Beispiele folgen
+- Beispielleitfäden (folgen)
+- Literaturhinweise (folgen)
 
 ## Zielgruppe
-Studierende & Forschende mit Interesse an qualitativen Ansätzen.
+Studierende und Forschende mit Interesse an qualitativen Ansätzen.
