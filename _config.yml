@@ -3,16 +3,16 @@ description: "Methoden-Workshops von Arieja Farugie"
 url: "https://arifarugie.github.io"   # deine GitHub-Pages-Domain
 baseurl: "/workshops"                 # der Name deines Repos, mit / davor
 
-# Minimal Mistakes als Remote-Theme
-remote_theme: mmistakes/minimal-mistakes@4.26.2
+theme: null          # eigenes Theme
+markdown: kramdown
 
-# Design-Variante (Skin) des Themes
-minimal_mistakes_skin: "dark"          # andere Skins: default, dark, mint, plum, sunrise ...
+# wichtige Verzeichnisse
+sass:
+  style: compressed
 
-# notwendiges Plugin für das Theme
-plugins:
-  - jekyll-include-cache
-
-# Seiten-Verzeichnis
-include:
-  - _pages
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
