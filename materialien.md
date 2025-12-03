@@ -5,12 +5,6 @@ permalink: /materialien/
 
 Hier können zentrale Materialien gesammelt werden.
 
-## Allgemeine Unterlagen
-
-- Link zu einer gemeinsamen GitHub-Repo mit Beispiel-Code.
-- Link zu Folien (PDF) oder Overleaf-Projekten.
-- Hinweise zu Software, die für die Workshops benötigt wird.
-
 ---
 
 ## 🔧 Software, die du benötigst
@@ -19,27 +13,23 @@ Für die Teilnahme an den Workshops wird folgende Software benötigt:
 
 ### **1. R (Programmiersprache)**  
 Download (kostenlos):  
-👉 https://ftp.fau.de/cran/
-
-> Installiere zuerst R – RStudio benötigt R, um zu funktionieren.
+➡️ [R Download (CRAN)](https://ftp.fau.de/cran/)
 
 ### **2. RStudio Desktop (IDE)**  
 Download (kostenlos):  
-👉 https://posit.co/downloads/
-
-> Empfehlung: „RStudio Desktop (Open Source Edition)“ wählen.
+➡️ [RStudio Desktop Download](https://posit.co/downloads/)
 
 ---
 
 ## 📚 Literaturliste
 
-### 📘 **Einführende Literatur**
+### **Einführende Literatur**
 
 *(Platzhalter – später ergänzen)*  
 - Autor/in (Jahr): *Titel*. Verlag.  
 - Autor/in (Jahr): *Titel*. Verlag.  
 
-### 📗 **Vertiefende Literatur**
+### **Vertiefende Literatur**
 
 *(Platzhalter – später ergänzen)*  
 - Autor/in (Jahr): *Titel*. Verlag.  
@@ -47,12 +37,12 @@ Download (kostenlos):
 
 ---
 
-## Nach Workshop sortiert
+## 📁 Nach Workshop sortiert
 
-- **Workshop 1:** kurze Beschreibung + Link zu den jeweiligen Materialien.  
-- **Workshop 2:** ...  
-- **Workshop 3:** ...  
-- **Workshop 4:** ...
+- **Workshop 1:** kurze Beschreibung + Link zu den jeweiligen Materialien  
+- **Workshop 2:** …  
+- **Workshop 3:** …  
+- **Workshop 4:** …
 
 > Hinweis für mich:  
 > Diese Seite ist eine Art „Material-Sammelstelle“.  
@@ -60,7 +50,7 @@ Download (kostenlos):
 
 ---
 
-## Interaktive Shiny-App: Korrelation & Punktwolke
+## 🎛️ Interaktive Shiny-App: Korrelation & Punktwolke
 
 <iframe 
   src="{{ '/shiny/app1/' | relative_url }}" 
