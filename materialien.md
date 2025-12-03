@@ -25,7 +25,7 @@ Download (kostenlos):
 
 ### **Einführende Literatur**
 
-- Wickham, H., Çetinkaya-Rundel, M., & Grolemund, G. (2024). *R für Data Science: Daten importieren, bereinigen, umformen und visualisieren. *O’Reilly.
+- Wickham, H., Çetinkaya-Rundel, M., & Grolemund, G. (2024). *R für Data Science: Daten importieren, bereinigen, umformen und visualisieren.* O’Reilly.
 - Luhmann, M. (2020). *R für Einsteiger: Einführung in die Statistiksoftware für die Sozialwissenschaften* (5. Aufl.). Beltz.  
 
 *(Platzhalter – später ergänzen)*  
