@@ -12,10 +12,10 @@ Auf dieser Seite gibt es eine Übersicht über alle Workshops.
 
 Die Detailseiten erreichst du über das **Workshops-Dropdown im Menü** oder direkt:
 
-- [Workshop 1](/workshops/workshop1/)
-- [Workshop 2](/workshops/workshop2/)
-- [Workshop 3](/workshops/workshop3/)
-- [Workshop 4](/workshops/workshop4/)
+- [Workshop 1](/workshops/workshop1)
+- [Workshop 2](/workshops/workshop2)
+- [Workshop 3](/workshops/workshop3)
+- [Workshop 4](/workshops/workshop4)
 
 > Hinweis für mich:  
 > Hier reicht pro Workshop ein Absatz.  
