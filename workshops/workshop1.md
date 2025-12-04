@@ -3,7 +3,21 @@ title: "Workshop 1 – Einführung in R & RStudio"
 permalink: /workshops/workshop1/
 ---
 
-## Kurzbeschreibung
+<div class="workshop-layout">
+
+<nav class="workshop-nav">
+  <h2>Inhalte</h2>
+  <ul>
+    <li><a href="#kurzbeschreibung">Kurzbeschreibung</a></li>
+    <li><a href="#lernziele">Lernziele</a></li>
+    <li><a href="#ablauf-agenda">Ablauf / Agenda</a></li>
+    <li><a href="#materialien">Materialien</a></li>
+  </ul>
+</nav>
+
+<div class="workshop-content">
+
+## Kurzbeschreibung {#kurzbeschreibung}
 
 Der zweitägige Workshop „Einführung in R – Erste Schritte mit RStudio“ richtet sich an Studierende der Sozialwissenschaften, die R für empirische Arbeiten, Haus- oder Abschlussarbeiten nutzen möchten.  
 Es werden grundlegende R-Konzepte, die Bedienung von RStudio sowie zentrale Schritte der Datenaufbereitung praxisnah vermittelt.  
@@ -13,7 +27,7 @@ Benötigte Vorkenntnisse: **keine**.
 
 ---
 
-## Lernziele
+## Lernziele {#lernziele}
 
 Nach dem Workshop können Teilnehmende …
 
@@ -24,29 +38,60 @@ Nach dem Workshop können Teilnehmende …
 - fehlende Werte identifizieren und behandeln  
 - Datensätze zusammenführen (Joins)  
 - Skripte und Projekte reproduzierbar strukturieren  
-- einen kleinen Datenbereinigungs-Workflow eigenständig umsetzen
+- einen kleinen Datenbereinigungs-Workflow eigenständig umsetzen  
 
-*(Platzhalter für Erweiterungen: ggf. ggplot2, dplyr-Vertiefung, weitere Optionen.)*
+*(Platzhalter: ggf. später ergänzen, z. B. einfache Visualisierungen mit ggplot2.)*
 
 ---
 
-## Ablauf / Agenda
+## Ablauf / Agenda {#ablauf-agenda}
 
-### **Tag 1 (6 Stunden, inkl. Pause)**  
+### Tag 1 (6 Stunden, inkl. Pause)
+
 1. Ankommen & Setup (R, RStudio, Projektordner)  
 2. Einführung in R & RStudio  
 3. Objekte, Funktionen & grundlegende Datentypen  
 4. Daten importieren (CSV, Excel, SPSS)  
 5. Erste Schritte der Datenaufbereitung (select, filter, mutate)
 
-*(Platzhalter: genaue Zeitplanung pro Modul, falls später gewünscht.)*
+*(Optional: genaue Zeitangaben pro Block können später ergänzt werden.)*
 
----
+### Tag 2 (6 Stunden, inkl. Pause)
 
-### **Tag 2 (6 Stunden, inkl. Pause)**  
 1. Recap & Fragen  
 2. Fehlende Werte & Datenbereinigung  
 3. Variablen transformieren & umkodieren  
 4. Datensätze verbinden (left_join etc.)  
 5. Reproduzierbare Workflows (Skripte, Projektstruktur)  
-6. Mini-Projekt: kleiner vollständiger Reinigun
+6. Mini-Projekt: kleiner vollständiger Reinigungs-Workflow
+
+---
+
+## Materialien {#materialien}
+
+### Übungsdatensatz (CSV)
+
+➡️ **[Übungsdatensatz herunterladen](../../assets/data/workshop1-dataset.csv)**  
+*(Der Link funktioniert, sobald die Datei hochgeladen wurde.)*
+
+> Hinweis: Datei bitte im Repo unter  
+> `assets/data/workshop1-dataset.csv`  
+> ablegen.
+
+### Begleitmaterialien (Platzhalter)
+
+- Folien (PDF): *folgt*  
+- R-Skripte zum Workshop: *folgen*  
+- Projektvorlage (`.Rproj`): *folgt*  
+- Musterlösung zum Mini-Projekt: *folgt*
+
+### Optionale Materialien (Platzhalter)
+
+- Link zu weiterführenden Shiny-Apps  
+- Beispielcode für Abschlussarbeiten  
+- Checkliste „Datenaufbereitung in der Abschlussarbeit“  
+- Literaturhinweise
+
+</div> <!-- .workshop-content -->
+
+</div> <!-- .workshop-layout -->
