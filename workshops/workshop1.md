@@ -15,7 +15,7 @@ permalink: /workshops/workshop1/
   </ul>
 </nav>
 
-<div class="workshop-content">
++ <div class="workshop-content" markdown="1">
 
 ## Kurzbeschreibung {#kurzbeschreibung}
 
