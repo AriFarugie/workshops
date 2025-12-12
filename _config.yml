@@ -1,0 +1,33 @@
+title: "Workshops – Methoden & Statistik"
+email: arieja.farugie@..."
+baseurl: "/workshops"
+url: "https://arifarugie.github.io"
+
+theme: minima
+
+markdown: kramdown
+kmarkdown:
+  input: GFM
+  hard_wrap: false
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+# Navigation
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+# Manuelle Navigation über _data/navigation.yml
