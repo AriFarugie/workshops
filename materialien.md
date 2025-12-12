@@ -1,0 +1,61 @@
+---
+title: "Materialien"
+permalink: /materialien/
+---
+
+Hier können zentrale Materialien gesammelt werden.
+
+---
+
+## 🔧 Software, die du benötigst
+
+Für die Teilnahme an den Workshops wird folgende Software benötigt:
+
+### **1. R (Programmiersprache)**  
+Download (kostenlos):  
+➡️ [R Download (CRAN)](https://ftp.fau.de/cran/)
+
+### **2. RStudio Desktop (IDE)**  
+Download (kostenlos):  
+➡️ [RStudio Desktop Download](https://posit.co/downloads/)
+
+---
+
+## 📚 Literaturliste
+
+### **Einführende Literatur**
+
+- Wickham, H., Çetinkaya-Rundel, M., & Grolemund, G. (2024). *R für Data Science: Daten importieren, bereinigen, umformen und visualisieren.* O’Reilly.
+- Luhmann, M. (2020). *R für Einsteiger: Einführung in die Statistiksoftware für die Sozialwissenschaften* (5. Aufl.). Beltz.  
+
+*(Platzhalter – später ergänzen)*  
+- Autor/in (Jahr): *Titel*. Verlag.  
+- Autor/in (Jahr): *Titel*. Verlag.  
+
+### **Vertiefende Literatur**
+
+*(Platzhalter – später ergänzen)*  
+- Autor/in (Jahr): *Titel*. Verlag.  
+- Autor/in (Jahr): *Titel*. Verlag.
+
+---
+
+## 📁 Nach Workshop sortiert
+
+- **Workshop 1:** kurze Beschreibung + Link zu den jeweiligen Materialien  
+- **Workshop 2:** …  
+- **Workshop 3:** …  
+- **Workshop 4:** …
+
+> Hinweis für mich:  
+> Diese Seite ist eine Art „Material-Sammelstelle“.  
+> Später konkrete Links zu Dateien oder externen Seiten einfügen.
+
+---
+
+## 🎛️ Interaktive Shiny-App: Korrelation & Punktwolke
+
+<iframe 
+  src="{{ '/shiny/app1/' | relative_url }}" 
+  style="width: min(100%, 1100px); height: 600px; border: 1px solid #333; border-radius: 8px; background: #ffffff;"
+></iframe>

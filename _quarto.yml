@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs           # So kann GitHub Pages direkt aus /docs serven
+
+website:
+  title: "Workshops – Methoden & Statistik"
+  site-url: https://arifarugie.github.io/workshops
+  navbar:
+    left:
+      - href: index.qmd
+        text: Start
+      - text: Workshops
+        menu:
+          - href: workshops/workshop1/index.qmd
+            text: Workshop 1 – Einführung in R & RStudio
+      - href: materialien.qmd
+        text: Materialien
+      - href: ueber-mich.qmd
+        text: Über mich
+  page-footer:
+    center: "© {{< meta year >}} Arieja Farugie"
+
+format:
+  html:
+    theme: default           # Grundtheme (neutral)
+    css: assets/styles.scss  # dein Dark-Design hier
+    toc: true
+    toc-depth: 2
+    code-copy: true
+
+# Praktisch: Projektspezifische Variablen
+metadata:
+  year: 2025
